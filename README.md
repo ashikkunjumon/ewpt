@@ -542,3 +542,16 @@
 
 ### https://medium.com/@juangrimm/o-que-%C3%A9-lfi-hacking-3bc709dfb5da
 
+Tips & Tricks for the exam:
+
+    Please don’t get demotivated after finding that some people completed the exam in 1 day while you are taking longer. Take your time with the exam environment and find all the possible vulnerabilities. Most people who complete the exam fast can’t find a lot of vulnerabilities and just submit a bad report. As a pentester, make it your principle that you will find all that you can and will report everything that you found in an organized manner.
+    Use Burp Suite effectively, Inspect every packet, every header for vulnerabilities. You can get 1 month of free trial for Burp Pro from Port Swigger website, Will help you a lot in finding low hanging fruits.
+    Take breaks, it will keep your mind fresh and will help in refocusing.
+    Reset the exam environment if you feel that something should work but is not working. You get 4 daily resets.
+    People have reported that their Lab VPN is not stable but It worked fine for me. So keep an eye out for this.
+    Unofficial INE Discord Server: https://discord.gg/9dvPVVBhgB
+    If you face any problems during your exam, contact the following and you will get a swift response: support@elearnsecurity.com
+    Make a good report. It is the only result that clients get and the only thing that matters the most in an entire Pen Test. You can find a good report format by TheMayor in the above mentioned discord server.
+    Do not take HD Screenshots of your entire screen to add to your report, the report size can not be higher than 10 MB. Only take shots of the relevant area of the screen, this will reduce the size as well as make your report precise. A good screenshot taking software is Greenshot, it lets you capture a specific part of screen and edit it on the go.
+    Usually most people take screenshots while doing the exam but it breaks my flow, so what I do is I use OBS to screen record my entire testing phase and take the screenshots from the recordings in reporting phase.
+    Notes and Google are your best friends. Whenever in doubt, read your notes and google stuff. Google is the bread and butter of every pentester.
